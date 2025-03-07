@@ -1,4 +1,8 @@
 hello
+<<<<<<< HEAD
 
 
 how are you
+=======
+hi commit
+>>>>>>> 996f505d86d63a8d794b27d08307437c2b784e52
